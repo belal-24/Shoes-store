@@ -348,6 +348,10 @@ hr {
   margin-top: 25px;
 }
 
+.map {
+  min-height: 450px;
+}
+
 input {
   border: 1px solid grey; 
 }
